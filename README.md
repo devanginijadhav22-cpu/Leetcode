@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/devanginijadhav22-cpu/Leetcode/tree/master/1920-build-array-from-permutation) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/devanginijadhav22-cpu/Leetcode/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/devanginijadhav22-cpu/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
